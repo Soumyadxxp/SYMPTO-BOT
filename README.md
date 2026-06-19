@@ -22,7 +22,7 @@ A fully functional, single-file **voice-powered symptom checker and medical info
 
 ## 🚀 How to Use
 
-1. **Download** the file `sympto-bot.html`
+1. **Download** the file `index.html`
 2. **Open** it in any modern browser (Chrome/Edge recommended for best voice support)
 3. **Start chatting**:
    - Type your question or
