@@ -1,6 +1,6 @@
 # 🩺 Sympto-Bot – Voice-Enabled Health Assistant
 
-A beautiful, fully functional, single-file **voice-powered symptom checker and medical information chatbot** built with HTML, CSS, and JavaScript.
+A fully functional, single-file **voice-powered symptom checker and medical information chatbot** built with HTML, CSS, and JavaScript.
 
 ## ✨ Features
 
