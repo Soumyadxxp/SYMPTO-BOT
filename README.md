@@ -2,8 +2,6 @@
 
 A beautiful, fully functional, single-file **voice-powered symptom checker and medical information chatbot** built with HTML, CSS, and JavaScript.
 
-![Sympto-Bot Preview](https://via.placeholder.com/800x400/136b7a/ffffff?text=Sympto-Bot+Interface)
-
 ## ✨ Features
 
 - **🎤 Voice Input & Output** – Speak your symptoms and hear responses (Speech Recognition + Text-to-Speech)
