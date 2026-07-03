@@ -1,4 +1,4 @@
-# Sympto-Bot Pro – AI Voice-Enabled Health Assistant
+# Sympto-Bot  – AI Voice-Enabled Health Assistant
 
 A modern, AI-inspired voice-enabled health assistant built using **HTML, CSS, and JavaScript**. Sympto-Bot Pro allows users to describe symptoms through text or voice, receive educational information about diseases, and explore possible health conditions in a beautiful, responsive interface.
 
