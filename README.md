@@ -4,9 +4,6 @@ A modern, AI-inspired voice-enabled health assistant built using **HTML, CSS, an
 
 > **Educational Purpose Only**
 > This project is intended for educational and informational use. It does **not** provide medical diagnosis or replace professional healthcare advice.
-<img width="827" height="673" alt="Screenshot 2026-07-07 012920" src="https://github.com/user-attachments/assets/6070732c-7958-417a-8a7f-382f9e4a65d3" />
-
-<img width="830" height="662" alt="Screenshot 2026-07-07 012939" src="https://github.com/user-attachments/assets/a53d7121-c138-4048-a7e8-6313ee4b4aaa" />
 
 ---
 
