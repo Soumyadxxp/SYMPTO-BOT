@@ -132,11 +132,6 @@ If you experience severe symptoms or believe you are having a medical emergency,
 
 ---
 
-## Author
-
-**Soumyadeep Basu**
-
----
 
 
 
