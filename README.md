@@ -120,26 +120,6 @@ Sympto-Bot-Pro/
 
 ---
 
-## Future Improvements
-
-* AI integration using OpenAI API
-* User login and authentication
-* Health profile management
-* Chat history using Local Storage
-* Export conversation as PDF
-* Dark/Light Mode
-* Multi-language Support
-* Medicine Reminder
-* Vaccination Reminder
-* Nearby Hospital Locator
-* Doctor Appointment Integration
-* BMI Calculator
-* Blood Pressure Tracker
-* Health Report Generation
-* Wearable Device Integration
-
----
-
 ## Medical Disclaimer
 
 Sympto-Bot Pro is designed solely for educational and informational purposes.
